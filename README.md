@@ -1,7 +1,4 @@
 
-## 🎥 Live Demo
-
-![project 1](./demo.gif)
 
 # My Personal Portfolio Website 🚀
 
