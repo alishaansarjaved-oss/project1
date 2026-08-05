@@ -1,3 +1,8 @@
+
+## 🎥 Live Demo
+
+![project 1](./demo.gif)
+
 # My Personal Portfolio Website 🚀
 
 A simple practice project built as part of my learning journey.
