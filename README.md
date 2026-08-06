@@ -4,7 +4,9 @@
 
 A simple practice project built as part of my learning journey.
 
----
+# Project Demo
+
+![DEMO GIF](DEMO.gif)
 
 ## 📌 About This Project
 This is a personal portfolio website developed as part of my computer science studies at the **University of Gujrat**. It showcases my educational background, professional experience, and practice projects.
